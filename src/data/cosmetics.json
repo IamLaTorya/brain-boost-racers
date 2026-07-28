@@ -1,0 +1,342 @@
+[
+  {
+    "id": "skin_light_glow",
+    "name": "Light Warm Glow",
+    "category": "skinTones",
+    "price": 0,
+    "previewColor": "#FDE047",
+    "icon": "🏻",
+    "description": "Fair warm skin tone choice.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "skin_medium_warm",
+    "name": "Medium Warm Honey",
+    "category": "skinTones",
+    "price": 0,
+    "previewColor": "#F59E0B",
+    "icon": "🏼",
+    "description": "Golden warm honey skin tone.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "skin_deep_bronze",
+    "name": "Deep Bronze",
+    "category": "skinTones",
+    "price": 0,
+    "previewColor": "#D97706",
+    "icon": "🏽",
+    "description": "Rich deep bronze skin tone.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "skin_rich_espresso",
+    "name": "Rich Espresso",
+    "category": "skinTones",
+    "price": 0,
+    "previewColor": "#78350F",
+    "icon": "🏾",
+    "description": "Deep rich espresso skin tone.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "skin_sun_kissed",
+    "name": "Sun-Kissed Glow",
+    "category": "skinTones",
+    "price": 0,
+    "previewColor": "#92400E",
+    "icon": "🏿",
+    "description": "Radiant sun-kissed skin tone.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "hair_curly_afro_puffs",
+    "name": "Girl Afro Puffs & Bows",
+    "category": "hairstyles",
+    "price": 0,
+    "previewColor": "#EC4899",
+    "icon": "👧🏽",
+    "description": "Cute double afro puffs with pink racer bows!",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "hair_short_fade",
+    "name": "Boy Buzz Fade",
+    "category": "hairstyles",
+    "price": 0,
+    "previewColor": "#1E293B",
+    "icon": "👦🏽",
+    "description": "Fresh low buzz cut fade for boys & unisex racers.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "hair_spiky_turbo",
+    "name": "Boy Spiky Racer Hair",
+    "category": "hairstyles",
+    "price": 40,
+    "previewColor": "#F59E0B",
+    "icon": "⚡",
+    "description": "High-octane energetic spiky hair!"
+  },
+  {
+    "id": "hair_braids_beads",
+    "name": "Girl Braids with Beads",
+    "category": "hairstyles",
+    "price": 50,
+    "previewColor": "#8B5CF6",
+    "icon": "👑",
+    "description": "Stylish box braids with shiny colorful racer beads!"
+  },
+  {
+    "id": "hair_wavy_flow",
+    "name": "Girl Beach Waves",
+    "category": "hairstyles",
+    "price": 50,
+    "previewColor": "#06B6D4",
+    "icon": "🌊",
+    "description": "Long flowing beach waves."
+  },
+  {
+    "id": "hair_high_ponytail",
+    "name": "Girl High Racer Ponytail",
+    "category": "hairstyles",
+    "price": 45,
+    "previewColor": "#10B981",
+    "icon": "🏎️",
+    "description": "Sleek high ponytail that flies in the speed wind."
+  },
+  {
+    "id": "hair_afro_crown",
+    "name": "High Afro Crown",
+    "category": "hairstyles",
+    "price": 60,
+    "previewColor": "#EAB308",
+    "icon": "🌟",
+    "description": "Magnificent high afro crown for champion racers."
+  },
+  {
+    "id": "hair_dreads_locs",
+    "name": "Cool Dreadlocks",
+    "category": "hairstyles",
+    "price": 55,
+    "previewColor": "#3B82F6",
+    "icon": "🎸",
+    "description": "Cool textured dreadlocks styled for racing."
+  },
+  {
+    "id": "hat_none",
+    "name": "No Hat",
+    "category": "hats",
+    "price": 0,
+    "previewColor": "transparent",
+    "icon": "❌",
+    "description": "Show off your hair with no hat.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "hat_default",
+    "name": "Racer Cap",
+    "category": "hats",
+    "price": 0,
+    "previewColor": "#0284C7",
+    "icon": "🧢",
+    "description": "Classic speedy blue racing visor cap.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "hat_crown",
+    "name": "Gold Victory Crown",
+    "category": "hats",
+    "price": 80,
+    "previewColor": "#EAB308",
+    "icon": "👑",
+    "description": "Fit for a math speed champion!"
+  },
+  {
+    "id": "hat_helmet",
+    "name": "Turbo Racing Helmet",
+    "category": "hats",
+    "price": 120,
+    "previewColor": "#EC4899",
+    "icon": "🪖",
+    "description": "High-octane safety helmet with tinted visor."
+  },
+  {
+    "id": "hat_wizard",
+    "name": "Math Wizard Hat",
+    "category": "hats",
+    "price": 150,
+    "previewColor": "#8B5CF6",
+    "icon": "🧙‍♂️",
+    "description": "Cast lightning fast math boost spells!"
+  },
+  {
+    "id": "glasses_none",
+    "name": "No Glasses",
+    "category": "glasses",
+    "price": 0,
+    "previewColor": "transparent",
+    "icon": "👀",
+    "description": "Clear view of the track ahead.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "glasses_shades",
+    "name": "Cool Shades",
+    "category": "glasses",
+    "price": 50,
+    "previewColor": "#1E293B",
+    "icon": "🕶️",
+    "description": "Block out the beach glare in style."
+  },
+  {
+    "id": "glasses_smart",
+    "name": "Smart Professor Specs",
+    "category": "glasses",
+    "price": 75,
+    "previewColor": "#F59E0B",
+    "icon": "👓",
+    "description": "Give your math calculations extra genius style."
+  },
+  {
+    "id": "outfit_default",
+    "name": "Rookie Jumpsuit",
+    "category": "outfits",
+    "price": 0,
+    "previewColor": "#3B82F6",
+    "icon": "🏎️",
+    "description": "Standard racer flame jumpsuit.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "outfit_neon",
+    "name": "Neon Nitro Suit",
+    "category": "outfits",
+    "price": 100,
+    "previewColor": "#10B981",
+    "icon": "⚡",
+    "description": "Glows bright green during speed boosts."
+  },
+  {
+    "id": "outfit_gold",
+    "name": "Golden Champion Suit",
+    "category": "outfits",
+    "price": 200,
+    "previewColor": "#EAB308",
+    "icon": "✨",
+    "description": "Shines like pure gold on the winner podium."
+  },
+  {
+    "id": "paint_blue",
+    "name": "Cobalt Blue Paint",
+    "category": "paints",
+    "price": 0,
+    "previewColor": "#2563EB",
+    "icon": "🎨",
+    "description": "Sleek metallic blue finish.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "paint_red",
+    "name": "Crimson Red Paint",
+    "category": "paints",
+    "price": 0,
+    "previewColor": "#DC2626",
+    "icon": "🎨",
+    "description": "Fiery red high-speed finish.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "paint_green",
+    "name": "Emerald Green Paint",
+    "category": "paints",
+    "price": 0,
+    "previewColor": "#16A34A",
+    "icon": "🎨",
+    "description": "Vibrant lime eco racer paint.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "paint_purple",
+    "name": "Cosmic Purple Paint",
+    "category": "paints",
+    "price": 90,
+    "previewColor": "#9333EA",
+    "icon": "🎨",
+    "description": "Deep galaxy purple shimmer paint."
+  },
+  {
+    "id": "paint_gold",
+    "name": "Solar Gold Paint",
+    "category": "paints",
+    "price": 180,
+    "previewColor": "#F59E0B",
+    "icon": "🎨",
+    "description": "Dazzling metallic yellow gold finish."
+  },
+  {
+    "id": "decal_none",
+    "name": "Clean Finish",
+    "category": "decals",
+    "price": 0,
+    "previewColor": "transparent",
+    "icon": "✨",
+    "description": "Smooth paint job with no decals.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "decal_stripes",
+    "name": "Twin Racing Stripes",
+    "category": "decals",
+    "price": 60,
+    "previewColor": "#FFFFFF",
+    "icon": "🏁",
+    "description": "Classic white twin stripes down the hood."
+  },
+  {
+    "id": "decal_lightning",
+    "name": "Lightning Bolt",
+    "category": "decals",
+    "price": 110,
+    "previewColor": "#FACC15",
+    "icon": "⚡",
+    "description": "Yellow electric shock decal on both doors."
+  },
+  {
+    "id": "decal_flames",
+    "name": "Hot Flames",
+    "category": "decals",
+    "price": 140,
+    "previewColor": "#F97316",
+    "icon": "🔥",
+    "description": "Fiery orange flame graphics across the side."
+  },
+  {
+    "id": "wheel_default",
+    "name": "Silver Alloy Wheels",
+    "category": "wheels",
+    "price": 0,
+    "previewColor": "#94A3B8",
+    "icon": "🛞",
+    "description": "Lightweight silver performance rims.",
+    "unlockedByDefault": true
+  },
+  {
+    "id": "wheel_gold",
+    "name": "Gold Spoke Wheels",
+    "category": "wheels",
+    "price": 85,
+    "previewColor": "#EAB308",
+    "icon": "🛞",
+    "description": "Gleaming gold sport wheel rims."
+  },
+  {
+    "id": "wheel_neon",
+    "name": "Cyan Neon Rims",
+    "category": "wheels",
+    "price": 130,
+    "previewColor": "#06B6D4",
+    "icon": "🛞",
+    "description": "Bright glowing cyan racing wheel trims."
+  }
+]

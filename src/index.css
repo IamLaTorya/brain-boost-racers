@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-radial-gradient-overlay {
+    background: radial-gradient(circle at center, transparent 40%, rgba(0, 180, 216, 0.25) 100%);
+  }
+}
