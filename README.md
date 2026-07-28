@@ -8,6 +8,20 @@ An arcade educational racing game where players answer grade-adapted math questi
 
 **Brain Boost Racers** combines high-speed 2D arcade racing powered by **Phaser 3** with interactive math challenges and financial literacy concepts. Players compete against dynamic AI racers on colorful tracks, pausing at math checkpoints to test their problem-solving skills. Quick and accurate answers deliver explosive nitro speed boosts to propel racers across the finish line!
 
+The concept was inspired by young learners who wanted a fun way to practice math and learn more about money. Brain Boost Racers transforms that idea into an interactive experience where players build confidence with numbers while learning practical financial skills.
+
+---
+
+## 🤖 AI-Assisted Development Process
+Brain Boost Racers was created through an AI-assisted development workflow while maintaining a human-led creative and technical process.
+
+- 💡 The original concept, educational goals, game mechanics, and feature ideas were shaped around feedback and inspiration from young learners.
+- 🤖 ChatGPT was used as a development collaborator for brainstorming, game design planning, architecture discussions, troubleshooting, and problem-solving.
+- 🛠️ Google AI Studio was used during prototyping, testing, debugging, and iterative refinement.
+- 🎮 Final implementation decisions, feature selection, testing, and overall project direction were guided by LaTorya Hoyle-Sadler.
+
+This project demonstrates the ability to combine creative problem-solving, educational design, game development, and AI-assisted workflows to transform an idea into a complete interactive web application.
+
 ---
 
 ## 🚀 Tech Stack
@@ -56,11 +70,15 @@ An arcade educational racing game where players answer grade-adapted math questi
 ---
 
 ## 👤 Author
-**LaTorya Hoyle-Sadler** | Interactive Developer
+**LaTorya Hoyle-Sadler** | Interactive Experience Developer
+**A ToyMind Interactive Experience**
 
 ---
-## 📄 License & Open Source
+## 📄 License & Project Rights
 
-This project is open-source and free to use! You are welcome to study the code, modify it, fork the repository, or use it for your own educational projects. 
+Brain Boost Racers is an original educational game project created by LaTorya Hoyle-Sadler under ToyMind Interactive.
 
-Distributed under the **MIT License**. See the `LICENSE` file for more details.
+This project is currently protected as a proprietary work. The source code may be viewed for portfolio and educational review purposes, but permission is required for redistribution, commercial use, or creation of derivative products.
+
+© 2026 ToyMind Interactive. All Rights Reserved.
+

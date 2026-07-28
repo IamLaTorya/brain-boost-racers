@@ -30,7 +30,45 @@ export const Credits = ({ onNavigate }) => {
           <p className="text-xs font-black text-[#FF0080] uppercase tracking-widest">
             Race • Learn • Earn • Customize
           </p>
-          <p className="text-xs font-bold text-slate-500">Version 1.0.0 (Beach Track Edition)</p>
+          <p className="text-xs font-bold text-slate-500">
+            Version 1.0.0 (Beach Track Edition)
+          </p>
+
+          <div className="pt-4 text-xs font-bold text-slate-600 space-y-1">
+            <p>Created by LaTorya Hoyle-Sadler</p>
+            <p className="text-[#00B4D8]">A ToyMind Interactive Experience</p>
+            <p>© 2026 ToyMind Interactive. All Rights Reserved.</p>
+          </div>
+        </div>
+        <div className="p-4 rounded-2xl bg-slate-50 border-2 border-[#FFD166] space-y-2 shadow-sm">
+          <h4 className="font-black text-[#FFB703] flex items-center gap-2 uppercase">
+            <Sparkles className="w-5 h-5 text-[#FFB703]" />
+            <span>Inspired by Young Creators</span>
+          </h4>
+
+          <p className="text-xs text-slate-600 leading-relaxed font-semibold">
+            Brain Boost Racers was inspired by the creativity and ideas of kids,
+            <strong> JaColby</strong> and <strong>Jaliyah</strong>, who helped
+            shape the vision of combining racing, math challenges, and financial
+            literacy into a fun learning experience.
+          </p>
+        </div>
+
+        <div className="p-4 rounded-2xl bg-slate-50 border-2 border-[#9B5DE5] space-y-2 shadow-sm">
+          <h4 className="font-black text-[#9B5DE5] flex items-center gap-2 uppercase">
+            <Sparkles className="w-5 h-5 text-[#9B5DE5]" />
+            <span>AI-Assisted Development</span>
+          </h4>
+
+          <p className="text-xs text-slate-600 leading-relaxed font-semibold">
+            Brain Boost Racers was brought to life through a creative development
+            process using AI tools as collaborative assistants. ChatGPT supported
+            brainstorming, game design planning, architecture decisions, and
+            troubleshooting. Google AI Studio was used during prototyping, testing,
+            debugging, and iterative refinement. All creative direction, final
+            implementation choices, and project decisions were guided by LaTorya
+            Hoyle-Sadler.
+          </p>
         </div>
 
         <div className="space-y-4 text-sm text-slate-700 font-semibold">
