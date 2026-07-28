@@ -48,7 +48,7 @@ export const Credits = ({ onNavigate }) => {
 
           <p className="text-xs text-slate-600 leading-relaxed font-semibold">
             Brain Boost Racers was inspired by the creativity and ideas of kids,
-            <strong> JaColby</strong> and <strong>Jaliyah</strong>, who helped
+            <strong> Jacolby</strong> and <strong>Jaliyah</strong>, who helped
             shape the vision of combining racing, math challenges, and financial
             literacy into a fun learning experience.
           </p>
